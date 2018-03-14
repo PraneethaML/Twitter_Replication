@@ -1,25 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Reference
 
-Things you may want to cover:
+- Ruby on Rails Tutorial
+- Learn Web Development with Rails
+- Michael Hartl
 
-* Ruby version
+# Future Enhancements
 
-* System dependencies
+- change UI 
+- deploy in Heroku
+- sending acount activation links to be done again
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Twitter_Replication
+# Important notes (for self)
+- Refer google drive Ruby on Rails notes
