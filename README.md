@@ -3,8 +3,10 @@
 # Reference
 
 - Ruby on Rails Tutorial
-- Learn Web Development with Rails
-- Michael Hartl
+   Learn Web Development with Rails
+   Michael Hartl
+   
+   https://www.railstutorial.org/book/
 
 # Future Enhancements
 
